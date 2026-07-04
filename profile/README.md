@@ -1,4 +1,4 @@
-# Ocariq
+# OCARIQ™
 
 > **Advancing Operations Control.**
 
@@ -35,7 +35,5 @@ Business Operations coordinated through reusable Capabilities.
 
 ---
 
-© 2026 Ocariq
+© 2026 OCARIQ™
 All rights reserved.
-
-Advancing Operations Control.

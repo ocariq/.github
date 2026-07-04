@@ -6,6 +6,14 @@ Ocariq develops open, vendor-neutral architectures, specifications and reference
 
 Our mission is to establish a common architectural foundation for coordinating Business Operations across heterogeneous operational domains.
 
+## Principles
+
+- Open by design
+- Vendor neutral
+- Architecture first
+- Capability driven
+- Community governed
+
 ## Ecosystem
 
 The Ocariq ecosystem consists of four complementary projects:

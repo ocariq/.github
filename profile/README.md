@@ -2,7 +2,9 @@
 
 > **Advancing Operations Control.**
 
-Ocariq develops open, vendor-neutral architectures, specifications and reference implementations for operational coordination.
+Ocariq develops open, vendor-neutral architectures, specifications and reference implementations for **Operations Control**.
+
+Our mission is to establish a common architectural foundation for coordinating Business Operations across heterogeneous operational domains.
 
 ## Ecosystem
 
@@ -24,3 +26,9 @@ Business Operations coordinated through reusable Capabilities.
 ---
 
 **Website:** https://ocariq.com
+
+---
+
+© 2026 Ocariq
+
+Advancing Operations Control.

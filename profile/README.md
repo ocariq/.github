@@ -4,8 +4,6 @@
 
 Ocariq develops open, vendor-neutral architectures, specifications and reference implementations for **Operations Control**.
 
-Ocariq establishes an open architectural foundation for coordinating Business Operations across heterogeneous cloud-native telecommunications environments.
-
 ## Principles
 
 - Open by design

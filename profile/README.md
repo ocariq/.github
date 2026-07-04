@@ -36,5 +36,6 @@ Business Operations coordinated through reusable Capabilities.
 ---
 
 © 2026 Ocariq
+All rights reserved.
 
 Advancing Operations Control.
